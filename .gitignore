@@ -1,5 +1,5 @@
 .vscode/
 
-client/node_modules
+ShopIT-client/node_modules
 
-server/node_modules
+ShopIT-server/node_modules

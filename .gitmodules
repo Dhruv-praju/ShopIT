@@ -1,3 +1,6 @@
 [submodule "ShopIT-server"]
 	path = ShopIT-server
 	url = https://github.com/Dhruv-praju/ShopIT-server.git
+[submodule "ShopIT-client"]
+	path = ShopIT-client
+	url = https://github.com/Dhruv-praju/ShopIT-client.git
